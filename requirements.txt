@@ -1,0 +1,4 @@
+pkg install python -y
+pkg install python-pip -y
+pkg install git -y
+pip install pyTelegramBotAPI requests pytz
